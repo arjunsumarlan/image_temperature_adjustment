@@ -1,0 +1,15 @@
+{
+  "name": "image-temperature-adjustment",
+  "version": "1.0.0",
+  "description": "Script for Adjusting Image Temperature",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "node test"
+  },
+  "author": "arjunsumarlan",
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "^0.33.2"
+  }
+}
